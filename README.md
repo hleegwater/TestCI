@@ -14,7 +14,7 @@ coverage](https://codecov.io/gh/hleegwater/TestCI/graph/badge.svg)](https://app.
 [![R-CMD-check](https://github.com/hleegwater/TestCI/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hleegwater/TestCI/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of TestCI is to …
+No idea what Im doing here :)
 
 ## Installation
 
